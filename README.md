@@ -1,6 +1,6 @@
 # Docker Demo App
 
-Docker Demo App - This demo app shows a simple user profile app set up using
+Docker Demo App - This demo app shows a simple user profile app
 
 ## Usage
 
