@@ -6,7 +6,7 @@ Docker Demo App - This demo app shows a simple user profile app
 
 Is still in production...
 
-localhost:3000
+localhost:4000
 
 ## App Features
 
