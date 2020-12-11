@@ -10,7 +10,7 @@ localhost:4000
 
 ## App Features
 
-- Responsive
+- Unresponsive (for the time being)
 - index.html with pure javascript and css styles
 - nodejs backend with express mode
 - MongoDB for data storage
